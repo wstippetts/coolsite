@@ -1,0 +1,80 @@
+header{
+background-color: navy;
+font-family: 'Lato', sans-serif;
+color: whitesmoke;
+font-size: 1.6em;
+text-align: center;
+margin: 3vh;
+padding: .2em;
+border-radius: .2%;
+margin: 0;
+}
+body{
+  margin: 0;
+  background-color: whitesmoke;
+}
+
+
+.bg{
+  background-color: blue;
+}
+
+.center{
+  text-align: center;
+  justify-content: center;
+}
+
+.text{
+  color: black;
+  font-family: 'Lato', sans-serif;
+  font-size: 1em;
+}
+
+.toppad{
+  border-top: .5em;
+  padding: .1em .5em;
+  color: blue;
+  
+}
+
+.disp-flex{
+  display: flex;
+}
+.space-even{
+  justify-content:space-evenly;
+}
+.boss-designer{
+  width: 10vw;
+  border-top-left-radius: 2%;
+  border-top-right-radius: 2%;
+
+}
+
+.para{
+  max-width: 30em;
+  border-top: 2vh solid blue;
+}
+
+.align-down{
+  align-items: flex-end;
+}
+
+.align-top{
+  align-items: flex-start;
+}
+
+.foot{
+  background-color: navy;
+  padding: 2vh;
+  margin: 0;
+  border: 0;
+}
+
+.margin-top{
+  border-top: 2vh;
+}
+
+.align-undertop{
+  align-items: center;
+}
+
